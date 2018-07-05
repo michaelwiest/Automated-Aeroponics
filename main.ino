@@ -596,6 +596,8 @@ double average_array(int* arr, int number){
 }
 
 
+
+
 double c_to_f(double celsius) {
   return 1.8 * celsius + 32;
 }
